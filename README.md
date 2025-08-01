@@ -16,7 +16,7 @@ The model is trained using TensorFlow and deployed using Gradio for easy interac
 - Evaluation is performed with metrics such as accuracy and loss
 - The trained model is saved as an `.h5` file
 
-### 🌐 Model Deployment (`final_project.ipynb`)
+### 🌐 Model Deployment (`deployment_code.ipynb`)
 - The saved model is loaded
 - A prediction function is defined to accept MRI images
 - A Gradio interface allows users to upload images and view the prediction
